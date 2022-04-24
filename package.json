@@ -1,0 +1,15 @@
+{
+  "name": "hand-challenge",
+  "version": "1.0.0",
+  "description": "Hand Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Manuel Garcia <manu230292@outlook.es>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
